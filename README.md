@@ -16,7 +16,7 @@ This is the backend part of the Sports Booking Application built using Node.js, 
   
 
 ## Deployed Link
-- [Backend Application]((https://booking-backend-0rno.onrender.com))
+- [Backend Application](https://booking-backend-0rno.onrender.com)
 
 
 ## Prerequisites
